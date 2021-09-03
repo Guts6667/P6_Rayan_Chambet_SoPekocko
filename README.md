@@ -1,12 +1,20 @@
-## Piquante
+## Piquante P5_Rayan_Chambet 
 
-Pour faire fonctionner le projet, vous devez installer :
-- [NodeJS](https://nodejs.org/en/download/) en version 12.14 ou 14.0 
-- [Angular CLI](https://github.com/angular/angular-cli) en version 7.0.2.
-- [node-sass](https://www.npmjs.com/package/node-sass) : attention à prendre la version correspondante à NodeJS. Pour Node 14.0 par exemple, installer node-sass en version 4.14+.
+Piquante was my first Backend project using Typescript ! 
 
-Sur Windows, ces installations nécessitent d'utiliser PowerShell en tant qu'administrateur.
+The goal was to create a CRUD and securize all the datas using bcrypt and jsonwebtoken.
+
+If you like hot sauces and web security go check it !
+
+In order to run this project, you must install :
+- [NodeJS](https://nodejs.org/en/download/) version 12.14 ou 14.0 
+- [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
+- [node-sass](https://www.npmjs.com/package/node-sass)  For Node 14.0 par exemple, installe node-sass 4.14+.
+
+On Windows, you might need to use PowerShell as administrator.
 
 ## Development server
 
-Démarrer ng serve pour avoir accès au serveur de développement. Rendez-vous sur http://localhost:4200/. L'application va se recharger automatiquement si vous modifiez un fichier source.
+Use ng serve or npm run auto to access the devlopment server. Then go to: http://localhost:4200/.
+
+
