@@ -1,6 +1,6 @@
 ## Piquante P5_Rayan_Chambet 
 
-Piquante was my first Backend project using Typescript ! 
+Piquante was my first Backend project using Node.js ! 
 
 The goal was to create a CRUD and securize all the datas using bcrypt and jsonwebtoken.
 
